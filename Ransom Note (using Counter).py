@@ -19,3 +19,10 @@ canConstruct("a", "b") -> false
 canConstruct("aa", "ab") -> false
 canConstruct("aa", "aab") -> true
 '''
+'''
+126 / 126 test cases passed.
+Status: Accepted
+Runtime: 52 ms
+Memory Usage: 14 MB
+
+'''
